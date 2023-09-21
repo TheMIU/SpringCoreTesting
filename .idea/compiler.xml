@@ -10,6 +10,7 @@
         <module name="05_Spring_DI" />
         <module name="01_HelloSpring" />
         <module name="03_BeanScope" />
+        <module name="06_Spring_DI_2" />
         <module name="02_SpringCore" />
       </profile>
     </annotationProcessing>
