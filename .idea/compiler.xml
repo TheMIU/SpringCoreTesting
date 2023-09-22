@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="04_BeanLifeCycle" />
         <module name="05_Spring_DI" />
         <module name="01_HelloSpring" />
         <module name="03_BeanScope" />
+        <module name="09_Runtime_Value_Injection" />
+        <module name="07_FullMode_LightMode" />
+        <module name="08_Spring_Configuration" />
+        <module name="04_BeanLifeCycle" />
         <module name="06_Spring_DI_2" />
         <module name="02_SpringCore" />
       </profile>
