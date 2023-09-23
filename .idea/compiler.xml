@@ -13,6 +13,7 @@
         <module name="07_FullMode_LightMode" />
         <module name="08_Spring_Configuration" />
         <module name="04_BeanLifeCycle" />
+        <module name="10_Spring_Enviorment" />
         <module name="06_Spring_DI_2" />
         <module name="02_SpringCore" />
       </profile>
